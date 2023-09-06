@@ -1,0 +1,131 @@
+/* CSS Document */
+@font-face{
+	src:url("../font/Inter-VariableFont_slnt,wght.ttf");
+	font-family: Myfonts;
+}
+body{
+	font-family: Myfonts;
+}
+/*
+.container-fluid{
+	
+	position: relative;
+	
+	z-index: 1000;
+	width: 100%;
+	height: 100vh;
+	background: pink;
+}
+*/
+.container{
+	width: 1200px;
+	margin: 0 auto;
+/*	background: #FFC0CB;*/
+	height: 100%;
+}
+.header{
+	height:80px;
+	width: 100%;
+/*	background: yellow;*/
+	padding: 20px;
+}
+img{
+	height: 50px;
+}
+.logo {
+	padding-left: 50px;
+
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.menu ul{
+	list-style: none;
+}
+.menu li a {
+	text-decoration: none;
+	color: black;
+	padding: 30px;
+	font-size: 20px;
+}
+.menu a:hover{
+	font-weight: bold;
+}
+.deco{
+	height: 1px;
+	width: 1000px;
+	background: black;
+	position: absolute;
+	left: 540px;
+	top: 60px;
+}
+.hh{
+	font-weight: bold;
+}
+.pic{
+	height: 300px;
+	background: black;
+	width: 300px;
+}
+.h1{
+	background: url("../img/adADQWDQW.jpg");
+	background-size: cover;
+}
+.h2{
+	background: url("../img/SDASDA-01-01.jpg");
+	background-size: cover;
+}
+.h3{
+	background: url("../img/wertt-01-01.jpg");
+	background-size: cover;
+}
+.cc{
+	background: #1A1919;
+	padding: 30px 30px 15px 30px;
+}
+.main{
+	margin-top: 50px;
+}
+p{
+	font-size: 15px;
+	margin-top: 10px;
+}
+.h4{
+	background: url("../img/fADFWF-01.jpg");
+	background-size: cover;
+}
+.h5{
+	background: url("../img/3333333RRRRRRRR-01.jpg");
+	background-size: cover;
+}
+.h6{
+	background: url("../img/3333333333333-01.jpg");
+	background-size: cover;
+}
+.h7{
+	background: url("../img/fgg-01.jpg");
+	background-size: cover;
+}
+.h8{
+	background: url("../img/1212222-01.jpg");
+	background-size: cover;
+}
+.h9{
+	background: url("../img/sdffwefwe-01.jpg");
+	background-size: cover;
+}
+.h10{
+	background: url("../img/F56SSS-01-01.jpg");
+	background-size: cover;
+}
+.h11{
+	background: url("../img/3333333RR-01.jpg");
+	background-size: cover;
+}
+.h12{
+	background: url("../img/3333333-01.jpg");
+	background-size: cover;
+}
+
